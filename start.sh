@@ -44,3 +44,10 @@ then
 else
 	echo "git installed"
 fi
+
+if ! command_exists home-manager;
+then
+	echo "installing home-manager..."
+else
+	echo "home-manager installed"
+fi

@@ -1,0 +1,1 @@
+/home/stivscience/.config/nixpkgs/flake.nix
